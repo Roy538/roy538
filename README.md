@@ -11,7 +11,7 @@
  <a href="https://facebook.com/AREKBRIA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Brian Arek" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/brian-arek-9915b2244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Brian Arek" height="30" width="40" /></a>
 <a href="https://instagram.com/brianarek_ke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Brian Arek" height="30" width="40" /></a>
-<a href="https://wa.me/+254748821539" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Brian Arek" height="30" width="40" /></a>
+<a href="https://wa.me/+254737876152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Brian Arek" height="30" width="40" /></a>
 </p>
 
 # TOOLS AND FRAMEWORKS:
