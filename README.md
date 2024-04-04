@@ -69,13 +69,13 @@
 
 
 # PROGRESS
-![brianwereh's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=brianwereh&&theme=dracula)
-![brianwereh's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianwereh&show_icons=true&theme=dracula)
-![brianwereh's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brianwereh&langs_count=20&theme=dracula&layout=compact) 
+![brianwereh's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Roy538&&theme=dracula)
+![brianwereh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roy538&show_icons=true&theme=dracula)
+![brianwereh's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roy538&langs_count=20&theme=dracula&layout=compact) 
 ![brianwereh's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lxmwaniky&theme=dracula&height=50&layout=compact)
 
 ## 🏆 Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=brianwereh&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Roy538&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
