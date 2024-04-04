@@ -3,7 +3,7 @@
  - Hi There, I'm Roy Maurice. I'm a **Front-end Developer** , **Software Developer**,**Mobile App Developer**, **Back-end Developer** and **Flutter Developer**
  - I'm looking forward to collaborating in **Open-Source** Projects
 
-[![Roy Maurice's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brianwereh&bg_color=0d1117&color=58a6ff&line=6effe6&point=ffffff&area=true&hide_border=true&width=800&height=500&custom=wave&border_radius=20&theme=dracula)](https://github.com/brianwereh/)
+[![Roy Maurice's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Roy538&bg_color=0d1117&color=58a6ff&line=6effe6&point=ffffff&area=true&hide_border=true&width=800&height=500&custom=wave&border_radius=20&theme=dracula)](https://github.com/roy538/)
 
 # LETS CONNECT
 <p align="center">
