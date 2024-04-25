@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roy538&label=Profile%20views&color=0e75b6&style=flat" alt="roy538" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roy538" alt="roy538" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [devroy-portfolio.netlify.app](devroy-portfolio.netlify.app)
 
