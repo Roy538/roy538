@@ -48,7 +48,7 @@
 
 # PROGRESS
 ![Roy638's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Roy538&&theme=dracula)
-![Roy538's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roy538&show_icons=true&theme=dracula)
+![Roy538's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=roy538&show_icons=true&theme=dracula)
 ![Roy538's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roy538&langs_count=20&theme=dracula&layout=compact) 
 ![Roy538's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lxmwaniky&theme=dracula&height=50&layout=compact)
 
