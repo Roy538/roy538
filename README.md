@@ -8,13 +8,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roy538&label=Profile%20views&color=0e75b6&style=flat" alt="roy538" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [devroy-portfolio.netlify.app](devroy-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [devroy-portfolio.netlify.app](https://devroy-portfolio.netlify.app/)
 
 - 💬 Ask me about **Web Development , Graphic Design , Software Development**
 
 - 📫 How to reach me **roymaurice10@gmail.com**
 
-- 📄 Know about my experiences [devroy-portfolio.netlify.app](devroy-portfolio.netlify.app)
+- 📄 Know about my experiences [devroy-portfolio.netlify.app](https://devroy-portfolio.netlify.app/)
 
 - ⚡ Fun fact **Tech Trendsetter: As someone who wears multiple hats in the tech industry, you're not just a follower of trends; you're a trendsetter. Whether it's adopting cutting-edge programming techniques, pioneering innovative design concepts, or shaping the future of database management, you're at the forefront of technological innovation.**
 [![Roy Maurice's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Roy538&bg_color=0d1117&color=58a6ff&line=6effe6&point=ffffff&area=true&hide_border=true&width=800&height=500&custom=wave&border_radius=20&theme=dracula)](https://github.com/roy538/)
