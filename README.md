@@ -1,35 +1,11 @@
 # About Me
 # <h1 align="center">Hi 👋, I'm Roy</h1>
 [![committers.top badge](https://user-badge.committers.top/kenya/roy538.svg)](https://user-badge.committers.top/kenya/roy538)
- - I'm a **Front-end Developer** , **Software Developer**,**Mobile App Developer**, **Back-end Developer** and **Flutter Developer**
+ - I'm a **Front-end Developer** , **Software Developer**,**Mobile App Developer**, **Back-end Developer**, **Graphics Designer** and **Flutter Developer**
  - I'm looking forward to collaborating in **Open-Source** Projects
 
 [![Roy Maurice's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Roy538&bg_color=0d1117&color=58a6ff&line=6effe6&point=ffffff&area=true&hide_border=true&width=800&height=500&custom=wave&border_radius=20&theme=dracula)](https://github.com/roy538/)
 
-# LETS CONNECT
-
-
-# TOOLS AND FRAMEWORKS:
-<p align="center">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-</a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-</a>
-<a href="https://www.php.net/images/logos/new-php-logo.svg" target="_blank" rel="noreferrer">
-  <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" width="40" height="40"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-</a>
-</p>
 <p align="center">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
