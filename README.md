@@ -6,14 +6,8 @@
 
 [![Roy Maurice's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Roy538&bg_color=0d1117&color=58a6ff&line=6effe6&point=ffffff&area=true&hide_border=true&width=800&height=500&custom=wave&border_radius=20&theme=dracula)](https://github.com/roy538/)
 
-//# LETS CONNECT
-// <p align="center">
-//<a href="https://twitter.com/BrianArek_ke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Brian Arek" height="30" width="40" /></a>
-// <a href="https://facebook.com/AREKBRIA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Brian Arek" height="30" width="40" /></a>
-//<a href="https://linkedin.com/in/brian-arek-9915b2244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Brian Arek" height="30" width="40" /></a>
-//<a href="https://instagram.com/brianarek_ke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Brian Arek" height="30" width="40" /></a>
-//<a href="https://wa.me/+254737876152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Brian Arek" height="30" width="40" /></a>
-//</p>
+# LETS CONNECT
+
 
 # TOOLS AND FRAMEWORKS:
 <p align="center">
@@ -87,6 +81,13 @@
 <p align="left">
 <a href="https://fb.com/maurice roy (jayr)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maurice roy (jayr)" height="30" width="40" /></a>
 <a href="https://instagram.com/jayr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jayr" height="30" width="40" /></a>
+ <p align="center">
+<a href="https://twitter.com/JayR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="JayR" height="30" width="40" /></a>
+<a href="https://facebook.com/AREKBRIA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Maurice Roy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maurice-roy-310314237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Maurice Roy" height="30" width="40" /></a>
+<a href="https://instagram.com/JayR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jayr" height="30" width="40" /></a>
+<a href="https://wa.me/+254737876152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="JayR" height="30" width="40" /></a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
