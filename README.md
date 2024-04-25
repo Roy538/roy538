@@ -3,12 +3,6 @@
 [![committers.top badge](https://user-badge.committers.top/kenya/roy538.svg)](https://user-badge.committers.top/kenya/roy538)
  - I'm a **Front-end Developer** , **Software Developer**,**Mobile App Developer**, **Back-end Developer**, **Graphics Designer** and **Flutter Developer**
  - I'm looking forward to collaborating in **Open-Source** Projects
-
-[![Roy Maurice's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Roy538&bg_color=0d1117&color=58a6ff&line=6effe6&point=ffffff&area=true&hide_border=true&width=800&height=500&custom=wave&border_radius=20&theme=dracula)](https://github.com/roy538/)
-
-
-
-
 <h3 align="center">A passionate Software developer from Kenya...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roy538&label=Profile%20views&color=0e75b6&style=flat" alt="roy538" /> </p>
@@ -24,18 +18,20 @@
 - 📄 Know about my experiences [devroy-portfolio.netlify.app](devroy-portfolio.netlify.app)
 
 - ⚡ Fun fact **Tech Trendsetter: As someone who wears multiple hats in the tech industry, you're not just a follower of trends; you're a trendsetter. Whether it's adopting cutting-edge programming techniques, pioneering innovative design concepts, or shaping the future of database management, you're at the forefront of technological innovation.**
+[![Roy Maurice's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Roy538&bg_color=0d1117&color=58a6ff&line=6effe6&point=ffffff&area=true&hide_border=true&width=800&height=500&custom=wave&border_radius=20&theme=dracula)](https://github.com/roy538/)
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/maurice roy (jayr)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maurice roy (jayr)" height="30" width="40" /></a>
-<a href="https://instagram.com/jayr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jayr" height="30" width="40" /></a>
  <p align="center">
 <a href="https://twitter.com/JayR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="JayR" height="30" width="40" /></a>
-<a href="https://facebook.com/AREKBRIA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Maurice Roy" height="30" width="40" /></a>
+<a href="https://facebook.com/maurice roy(jayr)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Maurice Roy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/maurice-roy-310314237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Maurice Roy" height="30" width="40" /></a>
 <a href="https://instagram.com/JayR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jayr" height="30" width="40" /></a>
 <a href="https://wa.me/+254737876152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="JayR" height="30" width="40" /></a>
-</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -55,10 +51,10 @@
 
 
 # PROGRESS
-![brianwereh's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Roy538&&theme=dracula)
-![brianwereh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roy538&show_icons=true&theme=dracula)
-![brianwereh's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roy538&langs_count=20&theme=dracula&layout=compact) 
-![brianwereh's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lxmwaniky&theme=dracula&height=50&layout=compact)
+![Roy638's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Roy538&&theme=dracula)
+![Roy538's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roy538&show_icons=true&theme=dracula)
+![Roy538's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roy538&langs_count=20&theme=dracula&layout=compact) 
+![Roy538's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lxmwaniky&theme=dracula&height=50&layout=compact)
 
 ## 🏆 Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Roy538&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
