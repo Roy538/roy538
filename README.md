@@ -1,6 +1,7 @@
 # About Me
-[![committers.top badge](https://user-badge.committers.top/kenya/brianwereh.svg)](https://user-badge.committers.top/kenya/brianwereh)
- - Hi There, I'm Roy Maurice. I'm a **Front-end Developer** , **Software Developer**,**Mobile App Developer**, **Back-end Developer** and **Flutter Developer**
+[![committers.top badge](https://user-badge.committers.top/kenya/roy538.svg)](https://user-badge.committers.top/kenya/roy538)
+<h1 align="center">Hi 👋, I'm Roy</h1>
+ - I'm a **Front-end Developer** , **Software Developer**,**Mobile App Developer**, **Back-end Developer** and **Flutter Developer**
  - I'm looking forward to collaborating in **Open-Source** Projects
 
 [![Roy Maurice's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Roy538&bg_color=0d1117&color=58a6ff&line=6effe6&point=ffffff&area=true&hide_border=true&width=800&height=500&custom=wave&border_radius=20&theme=dracula)](https://github.com/roy538/)
@@ -65,8 +66,8 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Roy</h1>
-<h3 align="center">A passionate Software developer from Kenya...</h3>
+
+//<h3 align="center">A passionate Software developer from Kenya...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roy538&label=Profile%20views&color=0e75b6&style=flat" alt="roy538" /> </p>
 
