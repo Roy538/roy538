@@ -17,6 +17,9 @@
 - 📄 Know about my experiences [devroy-portfolio.netlify.app](https://devroy-portfolio.netlify.app/)
 
 - ⚡ Fun fact **Tech Trendsetter: As someone who wears multiple hats in the tech industry, you're not just a follower of trends; you're a trendsetter. Whether it's adopting cutting-edge programming techniques, pioneering innovative design concepts, or shaping the future of database management, you're at the forefront of technological innovation.**
+
+- <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
+- 
 [![Roy Maurice's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Roy538&bg_color=0d1117&color=58a6ff&line=6effe6&point=ffffff&area=true&hide_border=true&width=800&height=500&custom=wave&border_radius=20&theme=dracula)](https://github.com/roy538/)
 
 
@@ -49,20 +52,12 @@
 
 
 
-### Hi there 👋, my name is Roy
-#### I am Developer
-![I am Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Roy538)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Roy538)](https://github.com/ryo-ma/github-profile-trophy)
 
