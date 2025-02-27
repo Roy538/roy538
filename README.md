@@ -52,7 +52,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Roy538&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<!-- <img src='https://memer-new.vercel.app/' style="height: 400px;"/> -->
 <img src='https://i.imgur.com/6OXgmxV.jpg' style="height: 400px;"/>
 
 ## 🏆 Trophies:
