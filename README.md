@@ -42,7 +42,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Roy538&show_icons=true&theme=radical) <br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Roy538&theme=dark&hide_border=false)<br/>
+![Streak stat](https://github-readme-streak-stats.herokuapp.com/?user=Roy538&theme=dark&hide_border=false)<br/>
 ![Roy538's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roy538&langs_count=20&theme=dracula&layout=compact) <br>
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=Roy538&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/Roy538/github-readme-stats)
 
