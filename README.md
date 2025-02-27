@@ -53,6 +53,7 @@
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<img src='https://i.imgur.com/6OXgmxV.jpg' style="height: 400px;"/>
 
 ## 🏆 Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Roy538&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
