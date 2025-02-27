@@ -43,7 +43,8 @@
 # PROGRESS
 ![Roy538's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=roy538&show_icons=true&theme=dracula)
 ![Roy538's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roy538&langs_count=20&theme=dracula&layout=compact) 
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=Roy538&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/Roy538/github-readme-stats)include_all_commits=true&count_private=true)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=Roy538&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/Roy538/github-readme-stats)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ### 🔝 Top Contributed Repo
