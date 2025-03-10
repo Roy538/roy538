@@ -34,7 +34,7 @@
 <a href="https://facebook.com/maurice roy(jayr)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Maurice Roy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/maurice-roy-310314237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Maurice Roy" height="30" width="40" /></a>
 <a href="https://instagram.com/JayR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jayr" height="30" width="40" /></a>
-<a href="https://wa.me/+254737876152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="JayR" height="30" width="40" /></a>
+<a href="https://wa.me/+254791518471" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="JayR" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
