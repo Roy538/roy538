@@ -3,7 +3,7 @@
 [![committers.top badge](https://user-badge.committers.top/kenya/roy538.svg)](https://user-badge.committers.top/kenya/roy538)
  - I'm a **Front-end Developer** , **Software Developer**,**Mobile App Developer**, **Back-end Developer**, **Graphics Designer** and **Flutter Developer**
  - I'm looking forward to collaborating in **Open-Source** Projects
-# <h3 align="center">A passionate Developer from Kenya...</h3>
+# <h3 align="center">A passionate Software Developer from Kenya...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roy538&label=Profile%20views&color=0e75b6&style=flat" alt="roy538" /> </p>
 
