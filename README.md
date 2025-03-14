@@ -7,7 +7,7 @@
 <!--## 💰 You can help me by Donating-->
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/devroy) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roy538&label=Profile%20views&color=0e75b6&style=flat" alt="roy538" /> </p>
+
 
 
 - 👨‍💻 All of my projects are available at [devroy-portfolio.netlify.app](https://devroy-portfolio.netlify.app/)
