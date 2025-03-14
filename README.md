@@ -4,7 +4,7 @@
  - I'm a **Front-end Developer** , **Software Developer**,**Mobile App Developer**, **Back-end Developer**, **Graphics Designer** and **Flutter Developer**
  - I'm looking forward to collaborating in **Open-Source** Projects
 # <h3 align="center">A passionate Software Developer from Kenya...</h3>
-## 💰 You can help me by Donating
+<!--## 💰 You can help me by Donating-->
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/devroy) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roy538&label=Profile%20views&color=0e75b6&style=flat" alt="roy538" /> </p>
