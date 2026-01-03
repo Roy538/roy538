@@ -49,7 +49,7 @@
 </div> -->
 <table>
   <tr>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/openai.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/Roy538/profile_icon/blob/main/AI/openai.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/claude.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/anthrophic.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/huggingface.png?raw=true" width="200"></td>
