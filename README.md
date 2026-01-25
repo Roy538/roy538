@@ -1,4 +1,3 @@
-<!-- <a href="https://twitter.com/JayR" target="blank"> -->
 <img align="center" src="Banner.png" alt="JayR" height="500" width="1000" /></a>
 
 
