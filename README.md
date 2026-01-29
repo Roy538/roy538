@@ -1,5 +1,5 @@
 <!--## 💰 You can help me by Donating-->
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/devroy) <p align="right"> <img src="https://komarev.com/ghpvc/?username=roy538&label=Profile%20views&color=0e75b6&style=flat" alt="roy538" /> </p>
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/devroy) <li align="right"> <img src="https://komarev.com/ghpvc/?username=roy538&label=Profile%20views&color=0e75b6&style=flat" alt="roy538" /> </li>
 
 <img align="center" src="Banner.png" alt="JayR" height="500" width="1000" /></a>
 
