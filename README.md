@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Web Development , Graphic Design , Software Development**
 
-- 📫 How to reach me **roymaurice10@gmail.com**
+<!-- 📫 How to reach me **roymaurice10@gmail.com**-->
 
 - 📄 Know about my experiences [devroy-portfolio.netlify.app](https://devroy-portfolio.netlify.app/)
 
